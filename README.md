@@ -1,3 +1,3 @@
 # MachineLearning--MNSIT-Digit-Classification
 
-This repository follow the instructions on how to build a simple neural network for handwriting detection using Python. The content is taken from: http://neuralnetworksanddeeplearning.com
+This repository deals with building a simple neural network for handwriting detection using Python from scratch(without using apis).The content is taken from: http://neuralnetworksanddeeplearning.com
